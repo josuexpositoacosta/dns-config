@@ -1,1 +1,14 @@
-{"dns":{"ip":"172.16.1.112","host":"conferencias.empresa.cu","user":"77091424547"}}
+{
+    "dns": [
+      {
+        "user": "",
+        "ip": "",
+        "host": ""
+      },
+      {
+        "user": "",
+        "ip": "",
+        "host": ""
+      }
+    ]
+  }
